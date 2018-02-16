@@ -1,0 +1,18 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname 21a) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+
+
+
+
+;; PURPOSE : To extend the function person-image in Ex 21 such that
+;;           the full name of the person appears below the image.
+
+;;*********************************FUNCTION EXTENSION*******************
+
+(require "21.rkt")
+(require 2htdp/image)
+
+(define (person-image-name p)
+  (above (person-image p)
+         (beside (text (person-first-name p)  24 "red") (text (person-last-name p) 24 "red"))))

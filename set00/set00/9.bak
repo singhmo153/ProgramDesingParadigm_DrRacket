@@ -1,0 +1,18 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |9|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+
+
+
+#| Purpose: To define a predicate even-num? that takes a number as an argument
+            and returns true if this number is divisible by 2, and false otherwise. |#
+
+;**************************************PREDICATE******************************
+
+(define (even-num? n)
+  (= (remainder n,2) 0))
+
+;**********************************TEST******************************
+
+(check-expect (even-num? 4) true)
+(check-expect (even-num? 5) false)

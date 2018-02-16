@@ -1,0 +1,19 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |20|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+
+
+;; PURPOSE: To assemble a human shape from circles and rectangles using image 
+;;          functions.
+
+;*************************************HUMAN SHAPE**********************************
+
+(require 2htdp/image)
+(above (beside (rectangle 10 2 "solid" "blue") 
+               (beside 
+                (above (circle 5 "solid" "blue") 
+                       (rectangle 10 15 "solid" "red"))
+                (rectangle 10 2 "solid" "blue") )) 
+       (beside (rectangle 2 15 "solid" "blue") 
+               (beside (rectangle 2 15 "solid" "white") 
+                       (rectangle 2 15 "solid" "blue"))))

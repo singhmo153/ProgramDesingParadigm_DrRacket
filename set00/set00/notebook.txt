@@ -1,0 +1,272 @@
+Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
+
+08/30	MS	14.30	14.45			   2		     15		Downloaded and installed Microsoft Office 2013.
+08/31	MS	13.10	13.22			   1		     12		Signed up for the CCIS account. Waiting for 
+										account activation.
+08/31	MS	13.31	13.45	     5		   5		      9		Downloaded and installed latest version of racket.
+08/31	MS	13.50	14.10	    7+2      	   6		     11 	Signed up for Github, and Downloaded and 
+										installed Github Client for windows.
+09/02	MS	12.30	12.45			   3		     15		Connected to NUWave.
+09/03	MS	19.10	19.30			   4		     20		CCIS account activated. Tried to signup for 
+										piazza but didn't receive confirmation emails.
+09/03 	MS	22.15	22.24			   4		      9		Failed to sign up for piazza again. Mailed the 
+										piazza team about my issue.
+09/04	MS	10.10	10.30	     5  	   4		     15		Received Activation link from piazza team. Signed
+										up for piazza
+09/04	MS	22.20	22.30			   6		     10		Uploaded a picture of mine at gravatar.com to 
+										appear on github
+====================Committing to git: 09/05 16.40===============================================================================
+
+09/06	MS	16.04	16.06			   Ex1		      2		Analysis of Ex1
+09/06	MS	16.07	16.20			   Ex1		     13		Expression for Ex1
+09/06   MS	16.21	16.37	     10		   Ex1		      6		Tests for the Expression. **Ex1 finished**
+
+====================Committing to git: 09/06 16.54===============================================================================
+
+09/06	MS	16.55	16.57			   Ex2		      2		Analysis of Ex2
+09/06	MS	16.58	17.05			   Ex2		      7		Expression for Ex2
+09/06	MS	17.05	17.10			   Ex2		      5		Tests for the Expression. **Ex2 finished**
+
+====================Committing to git: 09/06  17.11==============================================================================
+
+09/06	MS	17.11	17.14			   Ex3		      3		Analysis of Ex3
+09/06	MS	17.15	17.23			   Ex3		      8		Function for Ex3
+09/06	MS	17.24	17.27			   Ex3		      3		Tests for the function. Oops one of the tests 
+										failed.
+09/06	MS	17.28	17.35			   Ex3		      7		Test fixed. **Ex3 finished**
+09/06	MS	17.36	17.38			   Ex4		      2		Analysis of Ex4
+09/06	MS	17.39	17.45			   Ex4		      6		Function for Ex4
+09/06	MS	17.46	17.50			   Ex4		      4		Tests for the function. **Ex4 finished**
+
+=====================Committing to git: 09/06   20.22============================================================================
+
+09/06 	MS	20.30	20.33			   Ex5		      3		Analysis of Ex5
+09/06	MS	20.34	20.42 			   Ex5		      8		Function for Ex5
+09/06	MS	20.43	20.44			   Ex5		      2		Tests for the function. **Ex5 finished**
+09/06	MS 	20.45	20.49			   EX6		      4		Analysis of Ex6
+09/06	MS	20.50	21.05			   Ex6		     15		Function for Ex6
+09/06	MS	21.06 	21.15			   Ex6		      9		Tests for the functions. Oops both the tests 
+										failed. Error in example.
+09/06	MS	21.16	21.18			   Ex6		      2		Error in example fixed. Tests fixed. 
+										**Ex6 finished**
+
+======================Committing to git: 09/06	21.35=============================================================================
+
+09/06 	MS	22.55	22.59			   Ex7		      4		Analysis of Ex7
+09/06	MS	23.00	23.06			   Ex7		      6		Function for Ex7
+09/06	MS	23.07	23.10			   Ex7		      3		Tests for the function. One of the tests 
+										failed.
+09/06	MS	23.11	23.15			   Ex7		      4		Test fixed. **Ex7 finished**
+09/06	MS	23.16	23.18			   Ex8		      2		Analysis of Ex8
+09/06	MS	23.19	23.25			   Ex8		      6		Function for Ex8
+09/06	MS	23.26	23.30			   Ex8		      4		Tests for the function. All the tests 
+										failed. 
+										Error in Test case
+09/06	MS	23.31	23.34			   Ex8		      3		Tests Fixed. **Ex8 finished**
+09/06	MS	23.35	00.10     10+10  	   Ex9		     15		Analysis of Ex9. Working on Examples
+09/07	MS	00.11	00.15	    2		   Ex9		      4		Predicate for Ex9
+09/07	MS	00.16	00.20	    		   Ex9		      4		Tests for the predicate. **Ex9 finished**
+09/07	MS	00.21	00.25			  Ex10		      4		Analysis of Ex10
+09/07	MS	00.26	00.30			  Ex10		      9		Function for Ex10
+09/07	MS	00.32	00.34	    		  Ex10	       	      2		Tests for the function. **Ex10 finished**
+
+=====================Committing to git: 09/07	01.28==============================================================================
+
+09/11	MS	23.46	23.50			  EX11		       4        Analysis of Ex11
+09/11	MS	23.51	23.57			  Ex11		       6	Contracts for the point function. **Ex11 finished**
+09/11	MS	23.59	00.05			  Ex12		       6	Analysis of Ex12 
+09/12	MS	00.06	00.09			  Ex12		       3	Values for the given expressions. **Ex12 finished**
+09/12	MS	00.11	00.14			  Ex13		       3	Analysis of Ex13
+09/12	MS	00.15	00.17			  Ex13		       2	Values for the given expressions. **Ex13 finished**
+09/12	MS	00.18	00.22 			  Ex14		       4	Analysis of Ex14
+09/12	MS	00.23	00.30			  Ex14		       7	Functions for the structure. **Ex14 finished**
+09/12	MS	00.31	00.35			  Ex15		       4	Analysis of Ex15
+09/12	MS	00.37	00.48	    5   	  Ex15		       4	Comments for the definition of struct-student.
+										**Ex15 finished**
+09/12	MS	00.51	00.55			  Ex16		       4	Analysis of Ex16
+09/12	MS	00.56	01.15			  Ex16		      19	Played around various image fuctions.
+										**Ex16 finished**
+09/12	MS	01.16	01.20			  Ex17		       4	Analysis of Ex17
+09/12	MS	01.21	01.23			  Ex17		       2	Created rectangles of the given dimension.
+										**Ex17 finished**
+====================Committing to git: 09/12	01.28=============================================================================
+
+09/12	MS	13.40	13.45			  Ex18		       5	Analysed Ex18.
+09/12	MS	13.46	13.50			  Ex18		       4	Worked on the expressions and formula.
+09/12	MS	13.51	13.58			  Ex18		       7	Worked on the code and tests.
+09/12	MS	13.59	14.02			  Ex18		       3	Tests were successfully executed.
+										**Ex18 finished**
+09/12	MS	14.03	14.07			  Ex19		       4	Analysed Ex19.
+09/12	MS	14.08	14.25	    5		  Ex19		      12	Worked on the function definition and code.
+09/12	MS	14.26	14.30			  Ex19		       4	Tests successfully executed.
+										**Ex19 finished**
+09/12	MS	14.31	14.35			  Ex20		       4        Analysed Ex20.
+09/12	MS	14.36	14.50			  Ex20		      14	Worked on the design of the human shape.
+09/12	MS	14.50	15.10	    10		  Ex20		      10	Successfully assembeled the shape. Used the 
+										stepper to understand the image assembled 
+										by Dr Racket.**Ex20 finished**.
+========================Commmitting to git: 09/12 15.25===========================================================================
+
+09/12	MS	23.05	23.10			  Ex21			5	Analysed the problem in Ex21.
+09/12	MS	23.12	23.20			  Ex21			8	Wored on the function definition and code.
+09/12	MS	23.25	23.55			  Ex21		       20	Worked on the helper functions.
+09/12	MS	23.56	23.58			  Ex21			2	Tests successfully executed.
+
+=========================Committing to git: 09/12  23.59========================================================================
+09/13	MS	23.50	23.53			  Ex22			3	Analysed the Ex22.
+09/13	MS	23.55	23.58			  Ex22			3	Worked on the expression. **Ex22 finished**
+09/14	MS	00.01	00.10       5		  Ex23			4	Analysed the Ex23.
+09/14	MS	00.12	00.15			  Ex23			3	Worked on the expression. **Ex23 finished**
+09/14	MS	00.16	00.21			  Ex24			5	Analysed the problem in Ex24.
+09/14	MS	00.23	00.45			  Ex24		       22  	Worked on the function design and code.
+09/14	MS	00.46	00.50			  Ex24			3	Successfully tested the function.
+										**Ex24 finished**
+09/14	MS	00.52	00.56			  Ex25			4	Analysed the problem in Ex25.
+09/14	MS	00.23	00.45			  Ex25		       22  	Worked on the function design and code.
+09/14	MS	00.46	00.50			  Ex25			3	Successfully tested the function.
+										**Ex25 finished**
+09/14	MS	00.58	01.02			  Ex26			4	Analysed the problem in Ex26.
+09/14	MS	01.05	01.20			  Ex26		       15  	Worked on the function design and code.
+09/14	MS	01.21	01.23			  Ex26			2	Successfully tested the function.
+										**Ex26 finished**
+09/14	MS	01.24	01.30			  Ex27			6	Analysed the problem in Ex27.
+09/14	MS	01.33	01.45			  Ex27		       12  	Worked on the function design and code.
+09/14	MS	01.46	01.48			  Ex27			2	Successfully tested the function.
+										**Ex27 finished**
+09/14	MS	01.50	01.52			  Ex27a			2	Analysed the problem in Ex27a.
+09/14	MS	01.53	01.57			  Ex27a		        4  	Worked on the function design and code.
+09/14	MS	01.58	02.00			  Ex27a			2	Successfully tested the function.
+										**Ex27a finished**
+09/14	MS	02.01	02.04			  Ex28			3	Analysed the problem in Ex28.
+09/14	MS	02.05	02.08			  Ex28		       23  	Thinking about the function design and code.
+										started to think about Ex21a.
+09/14	MS	02.09	02.11			  Ex21a			2	Analysed the problem in Ex21a.
+09/14	MS	02.12	02.15			  Ex21a		        3  	Working on solution of the problem.
+
+===========================Committing to git: 09/14 02.15======================================================================
+
+09/14	MS	15.50	15.58			  Ex28			8	Worked on the code and test.
+09/14	MS	15.58	16.00			  Ex28			2	Successfully tested the function. 
+09/14	MS	16.01	16.04			  Ex30			3	Analysed the problem in Ex30.
+09/14	MS	16.07	16.18			  Ex30		       11  	Worked on the function design and code.
+09/14	MS	16.20	16.23			  Ex30			3	Successfully tested the function. 
+										**Ex30 finished**
+09/14	MS	16.25	16.28			  Ex31			3	Analysed the problem in Ex31.
+09/14	MS	16.30	16.40			  Ex31		       10  	Worked on the function design and code.
+09/14	MS	16.42	16.44			  Ex31			2	Successfully tested the function. 
+										**Ex31 finished**
+09/14	MS	16.45	16.49			  Ex32			4	Analysed the problem in Ex32.
+09/14	MS	16.50	16.58			  Ex32		        8  	Worked on the function design and code.
+09/14	MS	16.59	17.02			  Ex32			3	Successfully tested the function. 
+										**Ex32 finished**
+
+===========================Committing to git : 09/14 17.19=====================================================================
+
+09/14	MS	22.05	22.15			  Ex21a		       10	Worked on the function design and code.
+09/14	MS	22.16	22.18			  Ex21a		        2  	Function executed successfully. 
+09/14	MS	22.30	22.35			  Ex29			5	Analysed the problem in Ex29.
+09/14	MS	22.37	22.45			  Ex29		        8  	Worked on the function design and code.
+09/14	MS	22.46	22.52	     4		  Ex29			2	Function executed successfully. 
+
+============================Committing to git : 09/14 22.58======================================================================
+
+09/14	MS	23.30	23.40			  Ex21			10	Worked on the test cases. Test Cases executed
+										Successfully. **Ex21 finished**
+09/14	MS	23.41	23.44			  Ex21a			 3	Worked on the test cases. Test Cases executed
+										Successfully. **Ex21a finished**
+09/14	MS	23.45	23.50			  Ex28			 5	Worked on the test cases. Test Cases executed
+										Successfully. **Ex28 finished**
+
+09/14	MS	23.51	23.54			  Ex29			 4	Worked on the test cases. Test Cases executed
+										Successfully. **Ex29 finished**
+
+
+
+============================Committing to git : 09/14 00.01======================================================================
+
+						
+Total Time on Task Q1 (minutes)				12
+Total Time on Task Q2 (minutes)				15
+Total Time on Task Q3 (minutse)				15
+Total Time on Task Q4 (minutes)				44
+Total Time on Task Q5 (minutes)				 9
+Total Time on Task Q6 (minutes)				21
+TOTQ1 (hours and tenths)				0.2
+TOTQ2 (hours and tenths)				0.2
+TOTQ3 (hours and tenths)				0.2
+TOTQ4 (hours and tenths)				0.7
+TOTQ5 (hours and tenths)				0.2
+TOTQ6 (hours and tenths)				0.4
+Total Time on Task Ex1 (minutes)			21
+Total Time on Task Ex2 (minutes)			14
+Total Time on Task Ex3 (minutes)			21
+Total Time on Task Ex4 (minutes)			12
+Total Time on Task Ex5 (minutes)			13
+Total Time on Task Ex6 (minutes)			30
+Total Time on Task Ex7 (minutes)			17
+Total Time on Task Ex8 (minutes)			15
+Total Time on Task Ex9 (minutes)			23
+Total Time on Task Ex10 (minutes)			15
+Total Time on Task Ex11 (minutes)			10
+Total Time on Task Ex12 (minutes)			 9
+Total Time on Task Ex13 (minutes)			 5
+Total Time on Task Ex14 (minutes)			11
+Total Time on Task Ex15 (minutes)			 8
+Total Time on Task Ex16 (minutes)			23
+Total Time on Task Ex17 (minutes)			 6
+Total Time on Task Ex18 (minutes)			19
+Total Time on Task Ex19 (minutes)			20
+Total Time on Task Ex20 (minutes)			28
+Total Time on Task Ex21 (minutes)			63
+Total Time on Task Ex21a (minutes)			20
+Total Time on Task Ex22 (minutes)			 6
+Total Time on Task Ex23 (minutes)			 7
+Total Time on Task Ex24 (minutes)			30
+Total Time on Task Ex25 (minutes)			29
+Total Time on Task Ex26 (minutes)			21
+Total Time on Task Ex27 (minutes)			20
+Total Time on Task Ex27a (minutes)			 8
+Total Time on Task Ex28 (minutes)			41
+Total Time on Task Ex29 (minutes)			19
+Total Time on Task Ex30 (minutes)			17
+Total Time on Task Ex31 (minutes)			15
+Total Time on Task Ex32 (minutes)			15
+TOTEX1 (hours and tenths)				0.4
+TOTEX2 (hours and tenths)				0.2
+TOTEX3 (hours and tenths)				0.4
+TOTEX4 (hours and tenths)				0.2
+TOTEX5 (hours and tenths)				0.2
+TOTEX6 (hours and tenths)				0.5
+TOTEX7 (hours and tenths)				0.3		
+TOTEX8 (hours and tenths)				0.2
+TOTEX9 (hours and tenths)				0.4
+TOTEX10 (hours and tenths)				0.2
+TOTEX11 (hours and tenths)				0.2
+TOTEX12 (hours and tenths)				0.2
+TOTEX13 (hours and tenths)				0.1
+TOTEX14 (hours and tenths)				0.2
+TOTEX15 (hours and tenths)				0.1
+TOTEX16 (hours and tenths)				0.4
+TOTEX17 (hours and tenths)				0.1
+TOTEX18 (hours and tenths)				0.3
+TOTEX19 (hours and tenths)				0.5
+TOTEX20 (hours and tenths)				0.5
+TOTEX21 (hours and tenths)				1.0
+TOTEX21a (hours and tenths)				0.3
+TOTEX22 (hours and tenths)				0.1
+TOTEX23 (hours and tenths)				0.1
+TOTEX24 (hours and tenths)				0.5
+TOTEX25 (hours and tenths)				0.5
+TOTEX26 (hours and tenths)				0.4
+TOTEX27 (hours and tenths)				0.3
+TOTEX27a (hours and tenths)				0.1
+TOTEX28 (hours and tenths)				0.7
+TOTEX29 (hours and tenths)				0.3
+TOTEX30 (hours and tenths)				0.3
+TOTEX31 (hours and tenths)				0.2
+TOTEX32 (hours and tenths)				0.2
+
+
+
+
+

@@ -1,0 +1,27 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname |25|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
+
+
+
+;; PURPOSE : To write the function that returns true if all booleans in the
+;;           list are true.
+;;           in a list.
+
+;;******************************FUNCTION************************************
+
+
+;; booleanfn : ListOfBoolean -> Boolean
+    ;; GIVEN : a list of boooleans
+    ;; RETURNS : true iff all booleans in the list are true, and false 
+    ;;           otherwise
+    ;; Examples: 
+    ;; (product empty) = false
+    ;; (product (list false)) = false
+    ;; (product (list true true true) = true
+
+(define (booleanfn lst)
+      (cond
+        [(empty? lst) false]
+        [else (and true (booleanfn (rest lst)))]))
+    
